@@ -1,6 +1,6 @@
 # Laravel URI Translator
 
-[![Laravel](https://img.shields.io/badge/laravel-12-red?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
+[![Laravel](https://img.shields.io/badge/laravel-13-red?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
 [![License](https://img.shields.io/packagist/l/opgginc/codezero-laravel-uri-translator.svg?style=flat-square)](LICENSE.md)
 [![Total Downloads](https://img.shields.io/packagist/dt/opgginc/codezero-laravel-uri-translator.svg?style=flat-square)](https://packagist.org/packages/opgginc/codezero-laravel-uri-translator)
 
@@ -13,8 +13,8 @@ Parameters will not be translated by this macro. That remains the responsibility
 
 ## ✅ Requirements
 
-- PHP >= 8.1 (supports up to 8.4)
-- Laravel >= 10.0 (supports up to 12.0)
+- PHP >= 8.1 
+- Laravel >= 10.0 (supports up to 13.0)
 
 ## 📦 Install
 
